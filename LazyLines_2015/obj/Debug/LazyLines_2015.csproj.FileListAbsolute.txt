@@ -1,0 +1,10 @@
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\bin\Debug\LazyLines_2015.exe.config
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\bin\Debug\LazyLines_2015.exe
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\bin\Debug\LazyLines_2015.pdb
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.csprojResolveAssemblyReference.cache
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.Form1.resources
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.Properties.Resources.resources
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.csproj.GenerateResource.Cache
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.exe
+c:\users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.pdb
+C:\Users\lazyexpert\documents\visual studio 2012\Projects\LazyLines_2015\LazyLines_2015\obj\Debug\LazyLines_2015.model.Resource1.resources

@@ -1,0 +1,8 @@
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Release/LazyLines_2015.Form1.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Release/LazyLines_2015.model.Resource1.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Release/LazyLines_2015.Properties.Resources.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Release/LazyLines_2015.exe.config
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Release/LazyLines_2015.exe.mdb
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Release/LazyLines_2015.exe
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Release/LazyLines_2015.exe
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Release/LazyLines_2015.exe.mdb

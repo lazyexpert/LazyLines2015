@@ -1,0 +1,18 @@
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.Form1.resources
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.Resource1.resources
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.Resources.resources
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe.config
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe.mdb
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.exe
+/media/lazyexpert/54367AE5367AC78E/Users/lazyexpert/Documents/Visual Studio 2012/Projects/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.exe.mdb
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.Form1.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.model.Resource1.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.Properties.Resources.resources
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe.config
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe.mdb
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/bin/Debug/LazyLines_2015.exe
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.exe
+/media/lazyexpert/EFI FAT32/LazyLines_2015/LazyLines_2015/obj/Debug/LazyLines_2015.exe.mdb
